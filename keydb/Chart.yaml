@@ -1,4 +1,4 @@
-apiVersion: v2
+apiVersion: v1
 name: keydb
 description: A Helm chart for KeyDB multimaster setup
 type: application
